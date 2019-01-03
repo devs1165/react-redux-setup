@@ -22,8 +22,6 @@ export default class Layout extends React.Component{
 
     componentDidMount(){
         this.props.dispatch(test())
-        // console.log(this.props)
-        // this.redirect("/auth");
     }
     
     redirect(path){
