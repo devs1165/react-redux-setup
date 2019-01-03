@@ -3,7 +3,7 @@ this is react redux setup with react cli
 
 
 ## setup :
-* git clone
+* git clone https://github.com/devs1165/react-redux-setup.git
 * npm install
 * npm start 
 
